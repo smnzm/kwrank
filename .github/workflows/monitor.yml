@@ -24,4 +24,4 @@ jobs:
         pip install -r requirements.txt # If your script requires dependencies
 
     - name: Run Script
-      run: python your_script.py # Replace 'your_script.py' with your script's name
+      run: python monitor.py # Replace 'your_script.py' with your script's name
